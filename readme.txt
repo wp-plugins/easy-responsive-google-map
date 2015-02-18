@@ -15,7 +15,7 @@ Add Display Responsive Google Maps in your sites easily by clicking simple butto
 
 == Description ==
 
-Are you want to add a Responsive Google Maps in your website? No more work hard to add maps in your sites. This plugin give you the best oppurtunity to add your sites easily. Just install this plugin as like other wordpress plugin.Then where you want to add the map for example pages or posts you just click Google map button. Then you clink simple Google Map button on the top.Then going to https://www.google.com.bd/maps/@23.7806365,90.4193257,12z this link and select your place and then after clinking settins and copy the embed link and paste google map plugin embed option.Then fill up the option custom width and height as you wish.Now publish the page or posts and enjoy the Easy Responsive Google Map Plugin. Don't Forget to give us good rating.
+Are you want to add a Responsive Google Maps in your website? No more work hard to add maps in your sites. This plugin give you the best oppurtunity to add your sites easily. Just install this plugin as like other wordpress plugin.Then where you want to add the map for example pages or posts you just click Google map button. Then you clink simple Google Map button on the top.Then going to https://www.google.com/maps/@37.0625,-95.677068,4z this link and select your place and then after clinking settins and copy the embed link and paste google map plugin embed option.Then fill up the option custom width and height as you wish.Now publish the page or posts and enjoy the Easy Responsive Google Map Plugin. Don't Forget to give us good rating.
 
 Plugin Features !!!!!
 
