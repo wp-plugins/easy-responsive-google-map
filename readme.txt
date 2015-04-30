@@ -5,7 +5,7 @@ Author: Theme Road
 Donate link: 
 Tags: directions, easy map, google, google map, google map plugin, google maps, latitude, location, longitude, map, map directions, map markers, map plugin, map widget, maps, marker, polygons, polylines, routes, store locator, streetview, wp google map, wp google maps, wp maps,google maps, map, maps, wordpress google map, wordpress google maps., wp map, wp maps,address, admin, categories, cluster, exif tag, geocoder, google, google maps, grouping, image, images, list,maps, marker, pages, panoramio, pin, place, plugin, point, Post, post map, posts, shape, shortcode, sidebar, streetview, stylize,api, bulk, custom types, gecode, geo, geocoder,placemarker, pronamic, reverse geocode, v3, widget.
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
