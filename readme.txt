@@ -40,7 +40,8 @@ Installation Video Tutorial:
  * [TR Filterable Portfolio Pro](http://themeroad.net/Products/204/)
  * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
-
+check details: 
+ 
 == Installation ==
 
 Via WordPress -
